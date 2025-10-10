@@ -1,8 +1,6 @@
 # Creacion-de-VideoJuegos
 Carpeta de archivos donde se almacenan los enlaces que demuestran la evidencia del trabajo.
 
-https://docs.google.com/document/d/1RocvoY47YN5Jx7WFw5xneKSGouC67PPbEZSHFaTesUc/edit?usp=sharing
-
 # 🎮 Unidad2_CreacionVideojuegos
 
 ## 👤 Datos del autor
@@ -30,14 +28,12 @@ Aquí se incluyen las evidencias semanales, enlaces a materiales de apoyo y el d
 | Actividad 4: Implementación de colisiones | [Ver actividad](#) |
 | Actividad 5: Exportación del proyecto final | [Ver actividad](#) |
 
-https://drive.google.com/file/d/1SRxmBdS746i1_vvfbXkTDkQiesPMG3Ri/view?usp=drive_link
-
 ---
 
 ## 🎥 Tutoriales
 
 | *Descripción* | *Link de documento* |*Link de acceso de vídeo* 
-|------------------|--------------------|
+|------------------|--------------------|--------------------|
 | Tutorial 1: | [Ver tutorial](https://drive.google.com/file/d/12UcmDWN0wB0BIS303yoooLs_oeoCNLfQ/view?usp=drive_link) | [Vídeo](https://drive.google.com/file/d/1SRxmBdS746i1_vvfbXkTDkQiesPMG3Ri/view?usp=drive_link) |
 | Tutorial 2: | [Ver tutorial]() | [Vídeo]() |
 | Tutorial 3: | [Ver tutorial]() | [Vídeo]() |
