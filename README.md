@@ -12,7 +12,7 @@ Carpeta de archivos donde se almacenan los enlaces que demuestran la evidencia d
 
 ---
 
-## 📘 Descripción general
+## Descripción general
 Este repositorio contiene los recursos, actividades, tutoriales y proyectos desarrollados durante la *Unidad 2: Programación orientada a objetos para videojuegos  *.  
 Aquí se incluyen las evidencias semanales, enlaces a materiales de apoyo y el desarrollo del videojuego final.
 
@@ -53,11 +53,11 @@ Aquí se incluyen las evidencias semanales, enlaces a materiales de apoyo y el d
 | Actividad pendiente | [Repositorio o carpeta](Aún no hay documento) |
 | Actividad pendiente | [Ver video](Aún no hay documento) |
 
-**---
+---
 
-## 🧩 Retos
+## 🧩 Retos - Prácticas
 
 | Descripción | Link de acceso |
 |------------------|--------------------|
-| Actividad Lunes 13 de Octubre | [Ver documento](Aún no hay documento) |
+| Lunes 13 de Octubre - creación de menú | [Ver documento](Aún no hay documento) |
 
