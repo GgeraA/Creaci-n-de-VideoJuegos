@@ -48,7 +48,7 @@ Aquí se incluyen las evidencias semanales, enlaces a materiales de apoyo y el d
 
 | Descripción | Link de acceso |
 |------------------|--------------------|
-| Menú de videojuego | [Ver documento](Aún no hay documento) |
+| Crear menú de videojuego | [Ver documento](Aún no hay documento) |
 | Actividad pendiente | [Descargar aquí](Aún no hay documento) |
 | Actividad pendiente | [Repositorio o carpeta](Aún no hay documento) |
 | Actividad pendiente | [Ver video](Aún no hay documento) |
