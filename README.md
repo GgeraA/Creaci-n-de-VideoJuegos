@@ -22,9 +22,9 @@ Aquí se incluyen las evidencias semanales, enlaces a materiales de apoyo y el d
 
 | *Descripción* | *Link de acceso* |
 |------------------|--------------------|
-| Actividad 1: Personaje con Movimiento | [Ver actividad]( https://docs.google.com/document/d/1aMDbpZ-8FixtGAy-FP--YbrYY2sAoNCO/edit?usp=drive_link&ouid=115427075195124878474&rtpof=true&sd=true ) | [Ver vídeo(https://drive.google.com/file/d/1vgt36zMIdRArAoLCkWBJKJfKMpqa30Yf/view?usp=drive_link)]
+| Actividad 1: Personaje con Movimiento | [Ver actividad](https://docs.google.com/document/d/1aMDbpZ-8FixtGAy-FP--YbrYY2sAoNCO/edit?usp=drive_link&ouid=115427075195124878474&rtpof=true&sd=true) \| [Ver vídeo](https://drive.google.com/file/d/1vgt36zMIdRArAoLCkWBJKJfKMpqa30Yf/view?usp=drive_link) |
 | Actividad 2: Diseño de personajes 2D | [Ver actividad](Aún no hay documento) |
-| Actividad 3: Tutorial  | [Ver actividad](Aún no hay documento) |
+| Actividad 3: Tutorial | [Ver actividad](Aún no hay documento) |
 | Actividad 4: Implementación de colisiones | [Ver actividad](Aún no hay documento) |
 | Actividad 5: Exportación del proyecto final | [Ver actividad](Aún no hay documento) |
 
