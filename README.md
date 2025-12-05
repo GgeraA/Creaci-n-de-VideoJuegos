@@ -35,7 +35,7 @@ Aquí se incluyen las evidencias semanales, enlaces a materiales de apoyo y el d
 | *Descripción* | *Link de documento* |*Link de acceso de vídeo* 
 |------------------|--------------------|--------------------|
 | Tutorial 1: | [Ver tutorial](https://drive.google.com/file/d/12UcmDWN0wB0BIS303yoooLs_oeoCNLfQ/view?usp=drive_link) | [Vídeo](https://drive.google.com/file/d/1SRxmBdS746i1_vvfbXkTDkQiesPMG3Ri/view?usp=drive_link) |
-| Tutorial 2: | [Ver tutorial](Aún no hay documento) | [Vídeo](Aún no hay vídeo) |
+| Tutorial 2: | [Ver tutorial](https://drive.google.com/file/d/12EltMOO0ah1dAmwJ1adn7zcX9HqGHQeE/view?usp=drive_link) | [Vídeo](https://drive.google.com/file/d/1sDEv8I0GtFSQ5gnpiI4lbw0R2voQXzGG/view?usp=drive_link) |
 | Tutorial 3: | [Ver tutorial](Aún no hay documento) | [Vídeo](Aún no hay vídeo) |
 | Tutorial 4: | [Ver tutorial](Aún no hay documento) | [Vídeo](Aún no hay vídeo) |
 | Tutorial 5: | [Ver tutorial](Aún no hay documento) | [Vídeo](Aún no hay vídeo) |
