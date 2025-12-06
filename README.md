@@ -18,7 +18,7 @@ Aquí se incluyen las evidencias semanales, enlaces a materiales de apoyo y el d
 
 ---
 
-## 📅 Actividades Lunes
+## 📅 Actividades
 
 | *Descripción* | *Link de acceso* |
 |------------------|--------------------|
@@ -36,28 +36,11 @@ Aquí se incluyen las evidencias semanales, enlaces a materiales de apoyo y el d
 |------------------|--------------------|--------------------|
 | Tutorial 1: | [Ver tutorial](https://drive.google.com/file/d/12UcmDWN0wB0BIS303yoooLs_oeoCNLfQ/view?usp=drive_link) | [Vídeo](https://drive.google.com/file/d/1SRxmBdS746i1_vvfbXkTDkQiesPMG3Ri/view?usp=drive_link) |
 | Tutorial 2: | [Ver tutorial](https://drive.google.com/file/d/12EltMOO0ah1dAmwJ1adn7zcX9HqGHQeE/view?usp=drive_link) | [Vídeo](https://drive.google.com/file/d/1sDEv8I0GtFSQ5gnpiI4lbw0R2voQXzGG/view?usp=drive_link) |
-| Tutorial 3: | [Ver tutorial](Aún no hay documento) | [Vídeo](Aún no hay vídeo) |
+| Tutorial 3: | [Ver tutorial](https://drive.google.com/file/d/1V_WwtryL22_X6DpLLhRfhug7W18ns7jt/view?usp=drive_link) | [Vídeo](https://drive.google.com/file/d/1hG-iHnaLULryFmfAEabWanEXVpRIVYsk/view?usp=drive_link) |
 | Tutorial 4: | [Ver tutorial](Aún no hay documento) | [Vídeo](Aún no hay vídeo) |
 | Tutorial 5: | [Ver tutorial](Aún no hay documento) | [Vídeo](Aún no hay vídeo) |
 | Tutorial 6: | [Ver tutorial](Aún no hay documento) | [Vídeo](Aún no hay vídeo) |
 | Tutorial 7: | [Ver tutorial](Aún no hay documento) | [Vídeo](Aún no hay vídeo) |
 
 ---
-
-## 🍗 Extras
-
-| Descripción | Link de acceso |
-|------------------|--------------------|
-| Crear menú de videojuego | [Ver documento](Aún no hay documento) |
-| Actividad pendiente | [Descargar aquí](Aún no hay documento) |
-| Actividad pendiente | [Repositorio o carpeta](Aún no hay documento) |
-| Actividad pendiente | [Ver video](Aún no hay documento) |
-
----
-
-## 🧩 Retos - Prácticas
-
-| Descripción | Link de acceso |
-|------------------|--------------------|
-| Lunes 13 de Octubre - creación de menú | [Ver documento](Aún no hay documento) |
 
