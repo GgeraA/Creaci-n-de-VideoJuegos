@@ -4,16 +4,16 @@ Carpeta de archivos donde se almacenan los enlaces que demuestran la evidencia d
 # 🎮 Unidad2_CreacionVideojuegos
 
 ## 👤 Datos del autor
-*Nombre:* Gerardo Hernández López
+*Nombre:* Gerardo Hernández López - 1222100437
 *Grupo:* GIDS5102  
-*Materia:* Creación de video juegos
+*Materia:* Creación de Video Juegos
 *Unidad:* 2 - Programación orientada a objetos para videojuegos  
-*Docente:* BARRON RODRIGUEZ GABRIEL
+*Docente:* BARRÓN RODRIGUEZ GABRIEL
 
 ---
 
 ## Descripción general
-Este repositorio contiene los recursos, actividades, tutoriales y proyectos desarrollados durante la *Unidad 2: Programación orientada a objetos para videojuegos  *.  
+Este repositorio contiene los recursos, actividades, tutoriales y proyectos desarrollados durante la *Unidad 2: *Programación orientada a objetos para videojuegos*.  
 Aquí se incluyen las evidencias semanales, enlaces a materiales de apoyo y el desarrollo del videojuego final.
 
 ---
@@ -40,7 +40,7 @@ Aquí se incluyen las evidencias semanales, enlaces a materiales de apoyo y el d
 | Tutorial 4: | [Ver tutorial](https://drive.google.com/file/d/1GmysYYqyR0DtFS-aVjI2HvuxG8iwp5mR/view?usp=drive_link) | [Vídeo](https://drive.google.com/file/d/1RvK0EHd0TRHy5y-07LlHltmq7lnaKvEW/view?usp=drive_link) |
 | Tutorial 5: | [Ver tutorial](https://drive.google.com/file/d/1avItSJNEQZ42BkKAVJMBeMunQsA5D1n1/view?usp=drive_link) | [Vídeo](https://drive.google.com/file/d/1uI7XGhiIeBxD451Zl5TfH4-FQnhWawrp/view?usp=drive_link) |
 | Tutorial 6: | [Ver tutorial](https://drive.google.com/file/d/1rd3qQM48Gx8h5WBsvMq6Ox64OzKpwDip/view?usp=drive_link) | [Vídeo](https://drive.google.com/file/d/12Ngk6qf4kV5NnqPkmt1crgEp6D2dz5Ru/view?usp=drive_link) |
-| Tutorial 7: | [Ver tutorial](Aún no hay documento) | [Vídeo](Aún no hay documento) |
+| Tutorial 7: | [Ver tutorial](https://drive.google.com/file/d/10Jc3YFWAiCzrFd_XxnDo4OKDrRLzr6vh/view?usp=drive_link) | [Vídeo](https://drive.google.com/file/d/1Z7We0syMhwQaN4eR1rDGSOwa1-Jk-L5a/view?usp=drive_link) |
 
 ---
 
