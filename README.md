@@ -13,8 +13,7 @@ Carpeta de archivos donde se almacenan los enlaces que demuestran la evidencia d
 ---
 
 ## Descripción general
-Este repositorio contiene los recursos, actividades, tutoriales y proyectos desarrollados durante la *Unidad 2: *Programación orientada a objetos para videojuegos*.  
-Aquí se incluyen las evidencias semanales, enlaces a materiales de apoyo y el desarrollo del videojuego final.
+Este repositorio contiene los recursos, actividades, tutoriales y proyectos desarrollados durante la *Unidad 2: Programación orientada a objetos para videojuegos*. 
 
 ---
 
