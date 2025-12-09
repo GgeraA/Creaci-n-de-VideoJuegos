@@ -1,7 +1,7 @@
-# Creacion-de-VideoJuegos
+# Creacion-de-VideoJuegos - Unidad II
 Carpeta de archivos donde se almacenan los enlaces que demuestran la evidencia del trabajo.
 
-# 🎮 Unidad2_CreacionVideojuegos
+# 🎮 Unidad2 Creacion De VideoJuegos
 
 ## 👤 Datos del autor
 *Nombre:* Gerardo Hernández López - 1222100437
@@ -22,10 +22,10 @@ Este repositorio contiene los recursos, actividades, tutoriales y proyectos desa
 | *Descripción* | *Link de acceso* |
 |------------------|--------------------|
 | Actividad 1: Personaje con Movimiento | [Ver actividad](https://docs.google.com/document/d/1aMDbpZ-8FixtGAy-FP--YbrYY2sAoNCO/edit?usp=drive_link&ouid=115427075195124878474&rtpof=true&sd=true) \| [Ver vídeo](https://drive.google.com/file/d/1vgt36zMIdRArAoLCkWBJKJfKMpqa30Yf/view?usp=drive_link) |
-| Actividad 2: Diseño de personajes 2D | [Ver actividad](#) |
-| Actividad 3: Tutorial | [Ver actividad](#) |
-| Actividad 4: Implementación de colisiones | [Ver actividad](#) |
-| Actividad 5: Exportación del proyecto final | [Ver actividad](#) |
+| Actividad 2: Menú Básico | [Ver actividad](https://drive.google.com/file/d/1_3157hT9BeOJzjFbc5DCscy2u3WufYHK/view?usp=drive_link) \| [Ver vídeo]() |
+| Actividad 3: Multijugador | [Ver actividad](https://drive.google.com/file/d/1Wuo_Oszs6qug87ttzpjoXeQjflBIRwd1/view?usp=drive_link) \| [Ver vídeo](https://drive.google.com/file/d/1FeVzevsxIBdZVbxpzH1iV-ONk9iaoX_n/view?usp=drive_link) |
+| Actividad 4: Selección De Personaje | [Ver actividad](https://drive.google.com/file/d/1HfL7ik247WdARryBoY_q_qIVRJ9IunAR/view?usp=drive_link) \| [Ver vídeo](https://drive.google.com/file/d/1zCh9wsclmhlTLRyqq-GPS3FQkVFZxZ7E/view?usp=drive_link) |
+| Actividad 5: Menú Básico | [Ver actividad](#) \| [Ver vídeo](#) |
 
 ---
 
