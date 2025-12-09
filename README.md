@@ -25,7 +25,7 @@ Este repositorio contiene los recursos, actividades, tutoriales y proyectos desa
 | Actividad 2: Menú Básico | [Ver actividad](https://drive.google.com/file/d/1_3157hT9BeOJzjFbc5DCscy2u3WufYHK/view?usp=drive_link) \| [Ver vídeo]() |
 | Actividad 3: Multijugador | [Ver actividad](https://drive.google.com/file/d/1Wuo_Oszs6qug87ttzpjoXeQjflBIRwd1/view?usp=drive_link) \| [Ver vídeo](https://drive.google.com/file/d/1FeVzevsxIBdZVbxpzH1iV-ONk9iaoX_n/view?usp=drive_link) |
 | Actividad 4: Selección De Personaje | [Ver actividad](https://drive.google.com/file/d/1HfL7ik247WdARryBoY_q_qIVRJ9IunAR/view?usp=drive_link) \| [Ver vídeo](https://drive.google.com/file/d/1zCh9wsclmhlTLRyqq-GPS3FQkVFZxZ7E/view?usp=drive_link) |
-| Actividad 5: Menú Básico | [Ver actividad](#) \| [Ver vídeo](#) |
+| Actividad 5: Barra de Vida | [Ver actividad](#) \| [Ver vídeo](#) |
 
 ---
 
