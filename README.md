@@ -25,7 +25,7 @@ Este repositorio contiene los recursos, actividades, tutoriales y proyectos desa
 | Actividad 1: Personaje con Movimiento | [Ver actividad](https://drive.google.com/file/d/10LgTpPa-zJdIWvEmh_PLxVy11dtsQz1m/view?usp=drive_link) \| [Ver vídeo](https://drive.google.com/file/d/1vgt36zMIdRArAoLCkWBJKJfKMpqa30Yf/view?usp=drive_link) |
 | Actividad 2: Menú Básico | [Ver actividad](https://drive.google.com/file/d/1_3157hT9BeOJzjFbc5DCscy2u3WufYHK/view?usp=drive_link) \| [Ver vídeo](https://drive.google.com/file/d/1jpTxsbz4I_0lb4w_5ZAX0RRhJDyVgwV0/view?usp=sharing) |
 | Actividad 3: Multijugador | [Ver actividad](https://drive.google.com/file/d/1Wuo_Oszs6qug87ttzpjoXeQjflBIRwd1/view?usp=drive_link) \| [Ver vídeo](https://drive.google.com/file/d/1q9ZHcCU2i4k_Ypir3SdcnwB34tkTFnqC/view?usp=sharing) |
-| Actividad 4: Selección De Personaje | [Ver actividad](https://drive.google.com/file/d/1HfL7ik247WdARryBoY_q_qIVRJ9IunAR/view?usp=drive_link) \| [Ver vídeo](https://drive.google.com/file/d/1zCh9wsclmhlTLRyqq-GPS3FQkVFZxZ7E/view?usp=drive_link) |
+| Actividad 4: Selección De Personaje | [Ver actividad](https://drive.google.com/file/d/1zCh9wsclmhlTLRyqq-GPS3FQkVFZxZ7E/view?usp=drive_link) \| [Ver vídeo](https://drive.google.com/file/d/1HfL7ik247WdARryBoY_q_qIVRJ9IunAR/view?usp=drive_link) |
 | Actividad 5: Barra de Vida | [Ver actividad](#) \| [Ver vídeo](#) |
 
 ---
